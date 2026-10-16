@@ -236,8 +236,5 @@ npm run build
 7. **Smart Revision Sheet & PDF Export**:
    - Click **Revision Sheet** to view the one-page synthesized cheat sheet.
    - Click **"Export Revision PDF"** or export the entire project via the sidebar's **"Full PDF"** button.
-#   S t u d y C a n v a s  
- #   S t u d y C a n v a s  
- #   S t u d y C a n v a s  
- #   S t u d y C a n v a s  
+
  
